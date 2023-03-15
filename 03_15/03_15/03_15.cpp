@@ -4,9 +4,12 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    /// 헬로 월드 출력
+    printf("Hello World!\n");
 
-    return 0;
+    printf("asdf\n");
+    ///return 0 추가
+
 }
 
 
